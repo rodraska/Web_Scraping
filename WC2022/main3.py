@@ -4,7 +4,7 @@ import requests
 print('Escolhe o jogador')
 homem = input('>')
 
-html_text = requests.get('https://www.zerozero.pt/equipa.php?id=811&search=1').text
+html_text = requests.get('https://www.zerozero.pt/equipa.php?id=811&edicao_id=132894').text
 soup = BeautifulSoup(html_text, 'lxml')
 squad = soup.find('div', id = 'team_squad')
 body = squad.find('tbody')

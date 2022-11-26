@@ -1,0 +1,21 @@
+Nome : Batata Frita Rodelas Maria Batata
+Preço: €6,30/Kg
+
+Nome : Batata Doce Frita
+Preço: €20,90/Kg
+
+Nome : Batata Frita Palha Maria Batata
+Preço: €6,35/Kg
+
+Nome : Batata Vermelha
+Preço: €1,20/Kg
+
+Nome : Batata Branca
+Preço: €1,20/Kg
+
+Nome : Batata Doce
+Preço: €0,68/Kg
+
+Nome : Batata Frita Palha Pack Poupança
+Preço: €4,98/Kg
+
