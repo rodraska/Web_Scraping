@@ -5,15 +5,14 @@ import pandas as pd
 print('Pick a Player')
 homem = input('>')
 
-html_text = requests.get('https://www.playmakerstats.com/equipa.php?id=961&edicao_id=132894').text
+html_text = requests.get('https://www.playmakerstats.com/equipa.php?id=811&edicao_id=132894').text
 soup = BeautifulSoup(html_text, 'lxml')
+header = soup.find('h1')
+pais = header.find('span', class_='name').text
 squad = soup.find('div', id = 'team_squad')
 body = squad.find('tbody')
 players = body.find_all('tr')
-names_list = []
-positions_list = []
-ages_list = []
-teams_list = []
+
 for jogador in players:
     player_td = jogador.find_all('td')
     player_list = player_td[1]
@@ -23,27 +22,14 @@ for jogador in players:
         player_age = player_td[3].text
         player_sheet = player_td[4]
         player_team = player_sheet.find('div', class_ = 'text').text
-        names_list.append(player_name)
-        positions_list.append(player_position)
-        ages_list.append(player_age)
-        teams_list.append(player_team)
+        player_teamimage = player_sheet.find('div', class_='micrologo_and_text')
+        player_league = player_teamimage.find('div', class_='image').img['title']
 
-        """ print(f'''
-        Nome: {player_name}
-        Posição: {player_position}
-        Idade: {player_age}
-        Equipa: {player_team}
-        ''') """
-
-data = {
-    'Name': names_list,
-    'Position': positions_list,
-    'Age': ages_list,
-    'Team': teams_list
-}
-
-df = pd.DataFrame(data)
-
-df.to_csv('Ghana.csv', index=False)
-
-print(df)
+        print(f'''
+        Name: {player_name}
+        Position: {player_position}
+        Age: {player_age}
+        Country: {pais}
+        Club: {player_team}
+        League: {player_league}
+        ''')

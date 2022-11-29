@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv("titanic.csv")
 
+print(df)
+
 cols = df.columns.tolist()
 
 head = df.head(10)
@@ -74,9 +76,16 @@ new_df = df.filter(["Age", "Name"])
 
 #print(df.groupby("Sex").count())
 
-#print(df.groupby("Sex").sum())
+#print(df.groupby("Sedf.loc[(df.Pclass == 1), "Pclass"] = "First"
 
-#print(df.groupby("Sex").Fare.sum())
+""" df.loc[(df.Pclass == 2), "Pclass"] = "Second"
+df.loc[(df.Pclass == 3), "Pclass"] = "Third"
+
+df["Pclass"] = df.Pclass.astype("category")
+
+df.plot.scatter(x="Age", y="Fare", c="Pclass", cmap="viridis", figsize=(10, 5))
+
+plt.show() """
 
 #pd.set_option('display.max_rows', 1000)
 
@@ -90,7 +99,7 @@ new_df = df.filter(["Age", "Name"])
 
 #plt.show()
 
-df.loc[(df.Pclass == 1), "Pclass"] = "First"
+""" df.loc[(df.Pclass == 1), "Pclass"] = "First"
 df.loc[(df.Pclass == 2), "Pclass"] = "Second"
 df.loc[(df.Pclass == 3), "Pclass"] = "Third"
 
@@ -98,4 +107,4 @@ df["Pclass"] = df.Pclass.astype("category")
 
 df.plot.scatter(x="Age", y="Fare", c="Pclass", cmap="viridis", figsize=(10, 5))
 
-plt.show()
+plt.show() """
