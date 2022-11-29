@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Seny Dieng,GK,27,QPR
-Édouard Mendy,GK,30,Chelsea
-Alfred Gomis,GK,28,Rennes
-Formose Mendy,DEF,21,Amiens SC
-Kalidou Koulibaly,DEF,31,Chelsea
-Pape Abou Cissé,DEF,26,Olympiacos
-Fodé Ballo-Touré,DEF,25,Milan
-Ismail Jakobs,DEF,22,Monaco
-Youssouf Sabaly,DEF,29,Real Betis
-Abdou Diallo,DEF,26,RB Leipzig
-Moussa NDiaye,DEF,20,Anderlecht
-Gana Gueye,MID,32,Everton
-Nampalys Mendy,MID,30,Leicester City
-Cheikhou Kouyaté,MID,32,Nottingham Forest
-Pathé Ciss,MID,28,Rayo Vallecano
-Iliman Ndiaye,MID,23,Sheffield United
-Pape Sarr,MID,19,Tottenham
-Mamadou Loum,MID,25,Reading
-Moustapha Name,MID,27,Pafos FC
-Pape Gueye,MID,23,Marseille
-Nicolas Jackson,FRW,21,Villarreal
-Boulaye Dia,FRW,25,Salernitana
-Krépin Diatta,FRW,23,Monaco
-Ismaila Sarr,FRW,24,Watford
-Famara Diédhiou,FRW,29,Alanyaspor
-Bamba Dieng,FRW,22,Marseille
+Name,Position,Age,Team,League
+Seny Dieng,GK,27,QPR,England
+Édouard Mendy,GK,30,Chelsea,England
+Alfred Gomis,GK,28,Rennes,France
+Formose Mendy,DEF,21,Amiens SC,France
+Kalidou Koulibaly,DEF,31,Chelsea,England
+Pape Abou Cissé,DEF,26,Olympiacos,Greece
+Fodé Ballo-Touré,DEF,25,Milan,Italy
+Ismail Jakobs,DEF,22,Monaco,France
+Youssouf Sabaly,DEF,29,Real Betis,Spain
+Abdou Diallo,DEF,26,RB Leipzig,Germany
+Moussa NDiaye,DEF,20,Anderlecht,Belgium
+Gana Gueye,MID,32,Everton,England
+Nampalys Mendy,MID,30,Leicester City,England
+Cheikhou Kouyaté,MID,32,Nottingham Forest,England
+Pathé Ciss,MID,28,Rayo Vallecano,Spain
+Iliman Ndiaye,MID,23,Sheffield United,England
+Pape Sarr,MID,19,Tottenham,England
+Mamadou Loum,MID,25,Reading,England
+Moustapha Name,MID,27,Pafos FC,Cyprus
+Pape Gueye,MID,23,Marseille,France
+Nicolas Jackson,FRW,21,Villarreal,Spain
+Boulaye Dia,FRW,25,Salernitana,Italy
+Krépin Diatta,FRW,23,Monaco,France
+Ismaila Sarr,FRW,24,Watford,England
+Famara Diédhiou,FRW,29,Alanyaspor,Turkey
+Bamba Dieng,FRW,22,Marseille,France

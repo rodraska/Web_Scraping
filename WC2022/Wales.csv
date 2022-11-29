@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Wayne Hennessey,GK,35,Nottingham Forest
-Danny Ward,GK,29,Leicester City
-Adam Davies,GK,29,Sheffield United
-Chris Gunter,DEF,32,AFC Wimbledon
-Neco Williams,DEF,21,Nottingham Forest
-Ben Davies,DEF,29,Tottenham
-Chris Mepham,DEF,24,AFC Bournemouth
-Joe Rodon,DEF,24,Rennes
-Connor Roberts,DEF,26,Burnley
-Ethan Ampadu,DEF,21,Spezia
-Tom Lockyer,DEF,27,Luton Town
-Ben Cabango,DEF,22,Swansea City
-Joe Allen,MID,32,Swansea City
-Harry Wilson,MID,25,Fulham
-Aaron Ramsey,MID,31,Nice
-Joe Morrell,MID,25,Portsmouth
-Jonny Williams,MID,28,Swindon Town
-Dylan Levitt,MID,21,Dundee United
-Rubin Colwill,MID,20,Cardiff City
-Matt Smith,MID,22,MK Dons
-Brennan Johnson,FRW,21,Nottingham Forest
-Gareth Bale,FRW,32,Los Angeles FC
-Kieffer Moore,FRW,29,AFC Bournemouth
-Mark Harris,FRW,23,Cardiff City
-Daniel James,FRW,24,Fulham
-Sorba Thomas,FRW,22,Huddersfield Town
+Name,Position,Age,Team,League
+Wayne Hennessey,GK,35,Nottingham Forest,England
+Danny Ward,GK,29,Leicester City,England
+Adam Davies,GK,29,Sheffield United,England
+Chris Gunter,DEF,32,AFC Wimbledon,England
+Neco Williams,DEF,21,Nottingham Forest,England
+Ben Davies,DEF,29,Tottenham,England
+Chris Mepham,DEF,24,AFC Bournemouth,England
+Joe Rodon,DEF,24,Rennes,France
+Connor Roberts,DEF,26,Burnley,England
+Ethan Ampadu,DEF,21,Spezia,Italy
+Tom Lockyer,DEF,27,Luton Town,England
+Ben Cabango,DEF,22,Swansea City,Wales
+Joe Allen,MID,32,Swansea City,Wales
+Harry Wilson,MID,25,Fulham,England
+Aaron Ramsey,MID,31,Nice,France
+Joe Morrell,MID,25,Portsmouth,England
+Jonny Williams,MID,28,Swindon Town,England
+Dylan Levitt,MID,21,Dundee United,Scotland
+Rubin Colwill,MID,20,Cardiff City,Wales
+Matt Smith,MID,22,MK Dons,England
+Brennan Johnson,FRW,21,Nottingham Forest,England
+Gareth Bale,FRW,32,Los Angeles FC,United States of America
+Kieffer Moore,FRW,29,AFC Bournemouth,England
+Mark Harris,FRW,23,Cardiff City,Wales
+Daniel James,FRW,24,Fulham,England
+Sorba Thomas,FRW,22,Huddersfield Town,England

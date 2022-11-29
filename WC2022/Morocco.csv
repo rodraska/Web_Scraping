@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Yassine Bono,GK,31,Sevilla
-Munir Mohamedi,GK,33,Al-Wehda 
-Reda Tagnaouti,GK,26,WAC
-Achraf Hakimi,DEF,23,Paris SG
-Noussair Mazraoui,DEF,24,Bayern München
-Nayef Aguerd,DEF,26,West Ham
-Romain Saiss,DEF,32,Besiktas
-Jawad El Yamiq,DEF,30,Valladolid
-Achraf Dari,DEF,23,Brest
-Badr Benoun,DEF,28,Qatar SC
-Yahia Allah,DEF,27,WAC
-Sofyan Amrabat,MID,25,Fiorentina
-Hakim Ziyech,MID,29,Chelsea
-Azzedine Ounahi,MID,22,Angers
-Abdelhamid Sabiri,MID,25,Sampdoria
-Ilias Chair,MID,24,QPR
-Selim Amallah,MID,25,Standard Liège
-Sofiane Boufal,MID,28,Angers
-Bilal El Khannous,MID,18,Genk
-Yahya Jabrane,MID,31,WAC
-Abderazzak Hamdallah,FRW,31,Al-Ittihad Jeddah
-Anass Zaroury,FRW,21,Burnley
-Zakaria Aboukhlal,FRW,22,Toulouse
-Abde Ezzalzouli,FRW,20,Osasuna
-Youssef En-Nesyri,FRW,25,Sevilla
-Walid Cheddira,FRW,24,Bari
+Name,Position,Age,Team,League
+Yassine Bono,GK,31,Sevilla,Spain
+Munir Mohamedi,GK,33,Al-Wehda ,Saudi-Arabia
+Reda Tagnaouti,GK,26,WAC,Morocco
+Achraf Hakimi,DEF,23,Paris SG,France
+Noussair Mazraoui,DEF,24,Bayern München,Germany
+Nayef Aguerd,DEF,26,West Ham,England
+Romain Saiss,DEF,32,Besiktas,Turkey
+Jawad El Yamiq,DEF,30,Valladolid,Spain
+Achraf Dari,DEF,23,Brest,France
+Badr Benoun,DEF,28,Qatar SC,Qatar
+Yahia Allah,DEF,27,WAC,Morocco
+Sofyan Amrabat,MID,25,Fiorentina,Italy
+Hakim Ziyech,MID,29,Chelsea,England
+Azzedine Ounahi,MID,22,Angers,France
+Abdelhamid Sabiri,MID,25,Sampdoria,Italy
+Ilias Chair,MID,24,QPR,England
+Selim Amallah,MID,25,Standard Liège,Belgium
+Sofiane Boufal,MID,28,Angers,France
+Bilal El Khannous,MID,18,Genk,Belgium
+Yahya Jabrane,MID,31,WAC,Morocco
+Abderazzak Hamdallah,FRW,31,Al-Ittihad Jeddah,Saudi-Arabia
+Anass Zaroury,FRW,21,Burnley,England
+Zakaria Aboukhlal,FRW,22,Toulouse,France
+Abde Ezzalzouli,FRW,20,Osasuna,Spain
+Youssef En-Nesyri,FRW,25,Sevilla,Spain
+Walid Cheddira,FRW,24,Bari,Italy

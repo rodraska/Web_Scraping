@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Kasper Schmeichel,GK,35,Nice
-Oliver Christensen,GK,23,Hertha BSC
-Frederik Ronnow,GK,29,1. FC Union Berlin
-Joachim Andersen,DEF,26,Crystal Palace
-Victor Nelsson,DEF,23,Galatasaray
-Simon Kjaer,DEF,33,Milan
-Joakim Maehle,DEF,25,Atalanta
-Andreas Christensen,DEF,26,Barcelona
-Rasmus Kristensen,DEF,24,Leeds United
-Stryger Larsen,DEF,31,Trabzonspor
-Daniel Wass,DEF,33,Brondby IF
-Robert Skov,DEF,26,TSG Hoffenheim
-Alexander Bah,DEF,24,Benfica
-Mathias Jensen,MID,26,Brentford
-Thomas Delaney,MID,30,Sevilla
-Christian Eriksen,MID,30,Manchester United
-Christian Norgaard,MID,28,Brentford
-Pierre Hojbjerg,MID,26,Tottenham
-Martin Braithwaite,FRW,31,Espanyol
-Skov Olsen,FRW,22,Club Brugge
-Kasper Dolberg,FRW,24,Sevilla
-Mikkel Damsgaard,FRW,21,Brentford
-Jonas Wind,FRW,23,Wolfsburg
-Yussuf Poulsen,FRW,28,RB Leipzig
-Andreas Cornelius,FRW,29,FC Kobenhavn
-Jesper Lindstrom,FRW,22,Eintracht Frankfurt
+Name,Position,Age,Team,League
+Kasper Schmeichel,GK,35,Nice,France
+Oliver Christensen,GK,23,Hertha BSC,Germany
+Frederik Ronnow,GK,29,1. FC Union Berlin,Germany
+Joachim Andersen,DEF,26,Crystal Palace,England
+Victor Nelsson,DEF,23,Galatasaray,Turkey
+Simon Kjaer,DEF,33,Milan,Italy
+Joakim Maehle,DEF,25,Atalanta,Italy
+Andreas Christensen,DEF,26,Barcelona,Spain
+Rasmus Kristensen,DEF,24,Leeds United,England
+Stryger Larsen,DEF,31,Trabzonspor,Turkey
+Daniel Wass,DEF,33,Brondby IF,Denmark
+Robert Skov,DEF,26,TSG Hoffenheim,Germany
+Alexander Bah,DEF,24,Benfica,Portugal
+Mathias Jensen,MID,26,Brentford,England
+Thomas Delaney,MID,30,Sevilla,Spain
+Christian Eriksen,MID,30,Manchester United,England
+Christian Norgaard,MID,28,Brentford,England
+Pierre Hojbjerg,MID,26,Tottenham,England
+Martin Braithwaite,FRW,31,Espanyol,Spain
+Skov Olsen,FRW,22,Club Brugge,Belgium
+Kasper Dolberg,FRW,24,Sevilla,Spain
+Mikkel Damsgaard,FRW,21,Brentford,England
+Jonas Wind,FRW,23,Wolfsburg,Germany
+Yussuf Poulsen,FRW,28,RB Leipzig,Germany
+Andreas Cornelius,FRW,29,FC Kobenhavn,Denmark
+Jesper Lindstrom,FRW,22,Eintracht Frankfurt,Germany

@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Aymen Balbouli,GK,37,Étoile du Sahel
-Aymen Dahmen,GK,25,CS Sfaxien
-Bechir Ben Said ,GK,27,US Monastirienne
-Mouez Hassen,GK,27,Club Africain
-Bilel Ifa,DEF,32,Abha Club
-Montassar Talbi,DEF,24,Lorient
-Yassine Meriah,DEF,28,Espérance de Tunis
-Dylan Bronn,DEF,27,Salernitana
-Ali Maâloul,DEF,32,Al-Ahly
-Mohamed Drager,DEF,26,Luzern
-Ali Abdi,DEF,28,Caen
-Nader Ghandri,MID,27,Club Africain
-Hannibal Mejbri,MID,19,Birmingham City
-Ferjani Sassi,MID,30,Al-Duhail
-Aïssa Laïdouni,MID,25,Ferencváros
-Ali Ben Romdhane,MID,22,Espérance de Tunis
-Ellyes Skhiri,MID,27,FC Köln
-Ghaylen Chaaleli,MID,28,Espérance de Tunis
-Wajdi Kechrida,MID,26,Atromitos
-Naim Sliti,MID,29,Al-Ettifaq
-Anis Slimane,MID,21,Brondby IF
-Youssef Msakni,FRW,31,Al-Arabi SC
-Issam Jebali,FRW,30,Odense BK
-Wahbi Khazri,FRW,31,Montpellier
-Taha Khenissi,FRW,30,Kuwait SC
-Seifeddine Jaziri,FRW,29,Zamalek SC
+Name,Position,Age,Team,League
+Aymen Balbouli,GK,37,Étoile du Sahel,Tunisia
+Aymen Dahmen,GK,25,CS Sfaxien,Tunisia
+Bechir Ben Said ,GK,27,US Monastirienne,Tunisia
+Mouez Hassen,GK,27,Club Africain,Tunisia
+Bilel Ifa,DEF,32,Abha Club,Saudi-Arabia
+Montassar Talbi,DEF,24,Lorient,France
+Yassine Meriah,DEF,28,Espérance de Tunis,Tunisia
+Dylan Bronn,DEF,27,Salernitana,Italy
+Ali Maâloul,DEF,32,Al-Ahly,Egypt
+Mohamed Drager,DEF,26,Luzern,Switzerland
+Ali Abdi,DEF,28,Caen,France
+Nader Ghandri,MID,27,Club Africain,Tunisia
+Hannibal Mejbri,MID,19,Birmingham City,England
+Ferjani Sassi,MID,30,Al-Duhail,Qatar
+Aïssa Laïdouni,MID,25,Ferencváros,Hungary
+Ali Ben Romdhane,MID,22,Espérance de Tunis,Tunisia
+Ellyes Skhiri,MID,27,FC Köln,Germany
+Ghaylen Chaaleli,MID,28,Espérance de Tunis,Tunisia
+Wajdi Kechrida,MID,26,Atromitos,Greece
+Naim Sliti,MID,29,Al-Ettifaq,Saudi-Arabia
+Anis Slimane,MID,21,Brondby IF,Denmark
+Youssef Msakni,FRW,31,Al-Arabi SC,Qatar
+Issam Jebali,FRW,30,Odense BK,Denmark
+Wahbi Khazri,FRW,31,Montpellier,France
+Taha Khenissi,FRW,30,Kuwait SC,Kuwait
+Seifeddine Jaziri,FRW,29,Zamalek SC,Egypt

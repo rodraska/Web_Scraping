@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Rui Patrício,GK,34,Roma
-José Sá,GK,29,Wolverhampton
-Diogo Costa,GK,22,FC Porto
-Diogo Dalot,DEF,23,Manchester United
-Pepe,DEF,39,FC Porto
-Rúben Dias,DEF,25,Manchester City
-Raphaël Guerreiro,DEF,28,Borussia Dortmund
-Nuno Mendes,DEF,20,Paris SG
-João Cancelo,DEF,28,Manchester City
-António Silva,DEF,18,Benfica
-João Palhinha,MID,26,Fulham
-Bruno Fernandes,MID,27,Manchester United
-Bernardo Silva,MID,27,Manchester City
-Danilo Pereira,MID,30,Paris SG
-William Carvalho,MID,30,Real Betis
-Vitinha,MID,22,Paris SG
-João Mário,MID,29,Benfica
-Rúben Neves,MID,25,Wolverhampton
-Matheus Nunes,MID,23,Wolverhampton
-Otávio,MID,27,FC Porto
-Cristiano Ronaldo,FRW,37,Manchester United
-André Silva,FRW,26,RB Leipzig
-João Félix,FRW,22,Atlético Madrid
-Rafael Leão,FRW,23,Milan
-Ricardo Horta,FRW,27,SC Braga
-Gonçalo Ramos,FRW,21,Benfica
+Name,Position,Age,Team,League
+Rui Patrício,GK,34,Roma,Italy
+José Sá,GK,29,Wolverhampton,England
+Diogo Costa,GK,22,FC Porto,Portugal
+Diogo Dalot,DEF,23,Manchester United,England
+Pepe,DEF,39,FC Porto,Portugal
+Rúben Dias,DEF,25,Manchester City,England
+Raphaël Guerreiro,DEF,28,Borussia Dortmund,Germany
+Nuno Mendes,DEF,20,Paris SG,France
+João Cancelo,DEF,28,Manchester City,England
+António Silva,DEF,18,Benfica,Portugal
+João Palhinha,MID,26,Fulham,England
+Bruno Fernandes,MID,27,Manchester United,England
+Bernardo Silva,MID,27,Manchester City,England
+Danilo Pereira,MID,30,Paris SG,France
+William Carvalho,MID,30,Real Betis,Spain
+Vitinha,MID,22,Paris SG,France
+João Mário,MID,29,Benfica,Portugal
+Rúben Neves,MID,25,Wolverhampton,England
+Matheus Nunes,MID,23,Wolverhampton,England
+Otávio,MID,27,FC Porto,Portugal
+Cristiano Ronaldo,FRW,37,Manchester United,England
+André Silva,FRW,26,RB Leipzig,Germany
+João Félix,FRW,22,Atlético Madrid,Spain
+Rafael Leão,FRW,23,Milan,Italy
+Ricardo Horta,FRW,27,SC Braga,Portugal
+Gonçalo Ramos,FRW,21,Benfica,Portugal

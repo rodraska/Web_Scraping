@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Marko Dmitrović,GK,30,Sevilla
-Predrag Rajkovic,GK,26,Mallorca
-Milinkovic-Savic,GK,25,Torino
-Strahinja Pavlovic,DEF,21,Red Bull Salzburg
-Strahinja Erakovic,DEF,21,Crvena Zvezda
-Nikola Milenkovic,DEF,24,Fiorentina
-Milos Veljkovic,DEF,26,Werder Bremen
-Stefan Mitrovic,DEF,32,Getafe
-Srdan Babic,DEF,26,Almería
-Darko Lazovic,DEF,31,Hellas Verona
-Filip Mladenovic,DEF,30,Legia Warszawa
-Nemanja Maksimovic,MID,27,Getafe
-Nemanja Gudelj,MID,30,Sevilla
-Sasa Lukic,MID,25,Torino
-Uros Racic,MID,24,SC Braga
-Milinkovic-Savic,MID,27,Lazio
-Filip Djuricic,MID,30,Sampdoria
-Ivan Ilic,MID,21,Hellas Verona
-Marko Grujic,MID,26,FC Porto
-Nemanja Radonjic,FRW,26,Torino
-Aleksandar Mitrovic,FRW,27,Fulham
-Dusan Tadic,FRW,33,Ajax
-Luka Jovic,FRW,24,Fiorentina
-Andrija Zivkovic,FRW,25,PAOK
-Filip Kostic,FRW,29,Juventus
-Dusan Vlahovic,FRW,22,Juventus
+Name,Position,Age,Team,League
+Marko Dmitrović,GK,30,Sevilla,Spain
+Predrag Rajkovic,GK,26,Mallorca,Spain
+Milinkovic-Savic,GK,25,Torino,Italy
+Strahinja Pavlovic,DEF,21,Red Bull Salzburg,Austria
+Strahinja Erakovic,DEF,21,Crvena Zvezda,Serbia
+Nikola Milenkovic,DEF,24,Fiorentina,Italy
+Milos Veljkovic,DEF,26,Werder Bremen,Germany
+Stefan Mitrovic,DEF,32,Getafe,Spain
+Srdan Babic,DEF,26,Almería,Spain
+Darko Lazovic,DEF,31,Hellas Verona,Italy
+Filip Mladenovic,DEF,30,Legia Warszawa,Poland
+Nemanja Maksimovic,MID,27,Getafe,Spain
+Nemanja Gudelj,MID,30,Sevilla,Spain
+Sasa Lukic,MID,25,Torino,Italy
+Uros Racic,MID,24,SC Braga,Portugal
+Milinkovic-Savic,MID,27,Lazio,Italy
+Filip Djuricic,MID,30,Sampdoria,Italy
+Ivan Ilic,MID,21,Hellas Verona,Italy
+Marko Grujic,MID,26,FC Porto,Portugal
+Nemanja Radonjic,FRW,26,Torino,Italy
+Aleksandar Mitrovic,FRW,27,Fulham,England
+Dusan Tadic,FRW,33,Ajax,Netherlands
+Luka Jovic,FRW,24,Fiorentina,Italy
+Andrija Zivkovic,FRW,25,PAOK,Greece
+Filip Kostic,FRW,29,Juventus,Italy
+Dusan Vlahovic,FRW,22,Juventus,Italy

@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Jordan Pickford,GK,28,Everton
-Nick Pope,GK,30,Newcastle
-Aaron Ramsdale,GK,24,Arsenal
-Kyle Walker,DEF,32,Manchester City
-Luke Shaw,DEF,26,Manchester United
-John Stones,DEF,28,Manchester City
-Harry Maguire,DEF,29,Manchester United
-Kieran Trippier,DEF,31,Newcastle
-Eric Dier,DEF,28,Tottenham
-Conor Coady,DEF,29,Everton
-Alexander-Arnold,DEF,23,Liverpool
-Ben White,DEF,24,Arsenal
-Declan Rice,MID,23,West Ham
-Jordan Henderson,MID,32,Liverpool
-Kalvin Phillips,MID,26,Manchester City
-Mason Mount,MID,23,Chelsea
-Jude Bellingham,MID,19,Borussia Dortmund
-James Maddison,MID,25,Leicester City
-Conor Gallagher,MID,22,Chelsea
-Jack Grealish,FRW,26,Manchester City
-Harry Kane,FRW,28,Tottenham
-Raheem Sterling,FRW,27,Chelsea
-Marcus Rashford,FRW,24,Manchester United
-Bukayo Saka,FRW,20,Arsenal
-Phil Foden,FRW,22,Manchester City
-Callum Wilson,FRW,30,Newcastle
+Name,Position,Age,Team,League
+Jordan Pickford,GK,28,Everton,England
+Nick Pope,GK,30,Newcastle,England
+Aaron Ramsdale,GK,24,Arsenal,England
+Kyle Walker,DEF,32,Manchester City,England
+Luke Shaw,DEF,26,Manchester United,England
+John Stones,DEF,28,Manchester City,England
+Harry Maguire,DEF,29,Manchester United,England
+Kieran Trippier,DEF,31,Newcastle,England
+Eric Dier,DEF,28,Tottenham,England
+Conor Coady,DEF,29,Everton,England
+Alexander-Arnold,DEF,23,Liverpool,England
+Ben White,DEF,24,Arsenal,England
+Declan Rice,MID,23,West Ham,England
+Jordan Henderson,MID,32,Liverpool,England
+Kalvin Phillips,MID,26,Manchester City,England
+Mason Mount,MID,23,Chelsea,England
+Jude Bellingham,MID,19,Borussia Dortmund,Germany
+James Maddison,MID,25,Leicester City,England
+Conor Gallagher,MID,22,Chelsea,England
+Jack Grealish,FRW,26,Manchester City,England
+Harry Kane,FRW,28,Tottenham,England
+Raheem Sterling,FRW,27,Chelsea,England
+Marcus Rashford,FRW,24,Manchester United,England
+Bukayo Saka,FRW,20,Arsenal,England
+Phil Foden,FRW,22,Manchester City,England
+Callum Wilson,FRW,30,Newcastle,England

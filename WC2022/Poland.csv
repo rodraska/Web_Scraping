@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Wojciech Szczesny,GK,32,Juventus
-Lukasz Skorupski,GK,31,Bologna
-Kamil Grabara,GK,23,FC Kobenhavn
-Matty Cash,DEF,24,Aston Villa
-Artur Jedrzejczyk,DEF,34,Legia Warszawa
-Mateusz Wieteska,DEF,25,Clermont
-Jan Bednarek,DEF,26,Aston Villa
-Jakub Kiwior,DEF,22,Spezia
-Kamil Glik,DEF,34,Benevento
-Bartosz Bereszynski,DEF,29,Sampdoria
-Robert Gumny,DEF,24,FC Augsburg
-Krystian Bielik,MID,24,Birmingham City
-Damian Szymanski,MID,27,AEK
-Grzegorz Krychowiak,MID,32,Al-Shabab
-Szymon Zurkowski,MID,24,Fiorentina
-Sebastian Szymanski,MID,23,Feyenoord
-Piotr Zielinski,MID,28,Napoli
-Nicola Zalewski,MID,20,Roma
-Arkadiusz Milik,FRW,28,Juventus
-Robert Lewandowski,FRW,33,Barcelona
-Kamil Grosicki,FRW,34,Pogon Szczecin
-Jakub Kaminski,FRW,20,Wolfsburg
-Karol Swiderski,FRW,25,Charlotte FC
-Krzysztof Piatek,FRW,26,Salernitana
-Przemyslaw Frankowski ,FRW,27,Lens
-Michal Skoras,FRW,22,Lech Poznan
+Name,Position,Age,Team,League
+Wojciech Szczesny,GK,32,Juventus,Italy
+Lukasz Skorupski,GK,31,Bologna,Italy
+Kamil Grabara,GK,23,FC Kobenhavn,Denmark
+Matty Cash,DEF,24,Aston Villa,England
+Artur Jedrzejczyk,DEF,34,Legia Warszawa,Poland
+Mateusz Wieteska,DEF,25,Clermont,France
+Jan Bednarek,DEF,26,Aston Villa,England
+Jakub Kiwior,DEF,22,Spezia,Italy
+Kamil Glik,DEF,34,Benevento,Italy
+Bartosz Bereszynski,DEF,29,Sampdoria,Italy
+Robert Gumny,DEF,24,FC Augsburg,Germany
+Krystian Bielik,MID,24,Birmingham City,England
+Damian Szymanski,MID,27,AEK,Greece
+Grzegorz Krychowiak,MID,32,Al-Shabab,Saudi-Arabia
+Szymon Zurkowski,MID,24,Fiorentina,Italy
+Sebastian Szymanski,MID,23,Feyenoord,Netherlands
+Piotr Zielinski,MID,28,Napoli,Italy
+Nicola Zalewski,MID,20,Roma,Italy
+Arkadiusz Milik,FRW,28,Juventus,Italy
+Robert Lewandowski,FRW,33,Barcelona,Spain
+Kamil Grosicki,FRW,34,Pogon Szczecin,Poland
+Jakub Kaminski,FRW,20,Wolfsburg,Germany
+Karol Swiderski,FRW,25,Charlotte FC,United States of America
+Krzysztof Piatek,FRW,26,Salernitana,Italy
+Przemyslaw Frankowski ,FRW,27,Lens,France
+Michal Skoras,FRW,22,Lech Poznan,Poland

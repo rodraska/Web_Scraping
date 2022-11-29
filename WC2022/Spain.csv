@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Robert Sánchez,GK,24,Brighton & Hove Albion
-David Raya,GK,26,Brentford
-Unai Simón,GK,25,Athletic
-César Azpilicueta,DEF,32,Chelsea
-Eric García,DEF,21,Barcelona
-Pau Torres ,DEF,25,Villarreal
-Álex Baldé,DEF,18,Barcelona
-Hugo Guillamón,DEF,22,Valencia
-Jordi Alba,DEF,33,Barcelona
-Dani Carvajal,DEF,30,Real Madrid
-Aymeric Laporte,DEF,28,Manchester City
-Sergio Busquets,MID,33,Barcelona
-Marcos Llorente,MID,27,Atlético Madrid
-Koke ,MID,30,Atlético Madrid
-Pablo Gavi,MID,17,Barcelona
-Rodri Hernández,MID,26,Manchester City
-Carlos Soler,MID,25,Paris SG
-Dani Olmo,MID,24,RB Leipzig
-Pedri González,MID,19,Barcelona
-Álvaro Morata,FRW,29,Atlético Madrid
-Marco Asensio,FRW,26,Real Madrid
-Ferrán Torres,FRW,22,Barcelona
-Nico Williams ,FRW,19,Athletic
-Yéremy Pino,FRW,19,Villarreal
-Pablo Sarabia,FRW,30,Paris SG
-Ansu Fati,FRW,19,Barcelona
+Name,Position,Age,Team,League
+Robert Sánchez,GK,24,Brighton & Hove Albion,England
+David Raya,GK,26,Brentford,England
+Unai Simón,GK,25,Athletic,Spain
+César Azpilicueta,DEF,32,Chelsea,England
+Eric García,DEF,21,Barcelona,Spain
+Pau Torres ,DEF,25,Villarreal,Spain
+Álex Baldé,DEF,18,Barcelona,Spain
+Hugo Guillamón,DEF,22,Valencia,Spain
+Jordi Alba,DEF,33,Barcelona,Spain
+Dani Carvajal,DEF,30,Real Madrid,Spain
+Aymeric Laporte,DEF,28,Manchester City,England
+Sergio Busquets,MID,33,Barcelona,Spain
+Marcos Llorente,MID,27,Atlético Madrid,Spain
+Koke ,MID,30,Atlético Madrid,Spain
+Pablo Gavi,MID,17,Barcelona,Spain
+Rodri Hernández,MID,26,Manchester City,England
+Carlos Soler,MID,25,Paris SG,France
+Dani Olmo,MID,24,RB Leipzig,Germany
+Pedri González,MID,19,Barcelona,Spain
+Álvaro Morata,FRW,29,Atlético Madrid,Spain
+Marco Asensio,FRW,26,Real Madrid,Spain
+Ferrán Torres,FRW,22,Barcelona,Spain
+Nico Williams ,FRW,19,Athletic,Spain
+Yéremy Pino,FRW,19,Villarreal,Spain
+Pablo Sarabia,FRW,30,Paris SG,France
+Ansu Fati,FRW,19,Barcelona,Spain

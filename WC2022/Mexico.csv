@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Alfredo Talavera,GK,39,Juárez
-Rodolfo Cota,GK,34,Club León
-Guillermo Ochoa,GK,36,América
-Néstor Araujo,DEF,30,América
-César Montes,DEF,25,Monterrey
-Johan Vásquez,DEF,23,Cremonese
-Gerardo Arteaga,DEF,23,Genk
-Héctor Moreno,DEF,34,Monterrey
-Jorge Sánchez ,DEF,24,Ajax
-Jesús Gallardo,DEF,27,Monterrey
-Kevin Álvarez ,DEF,23,Pachuca
-Edson Álvarez,MID,24,Ajax
-Luis Romo,MID,27,Monterrey
-Carlos Rodríguez,MID,25,Cruz Azul
-Érick Gutiérrez,MID,27,PSV
-Héctor Herrera,MID,32,Houston Dynamo
-Orbelín Pineda,MID,26,AEK
-Andrés Guardado,MID,35,Real Betis
-Uriel Antuna,MID,24,Cruz Azul
-Luis Chávez,MID,26,Pachuca
-Roberto Alvarado,MID,23,Chivas
-Raúl Jiménez,FRW,31,Wolverhampton
-Alexis Vega,FRW,24,Chivas
-Rogelio Funes Mori,FRW,31,Monterrey
-Henry Martín,FRW,29,América
-Hirving Lozano,FRW,26,Napoli
+Name,Position,Age,Team,League
+Alfredo Talavera,GK,39,Juárez,Mexico
+Rodolfo Cota,GK,34,Club León,Mexico
+Guillermo Ochoa,GK,36,América,Mexico
+Néstor Araujo,DEF,30,América,Mexico
+César Montes,DEF,25,Monterrey,Mexico
+Johan Vásquez,DEF,23,Cremonese,Italy
+Gerardo Arteaga,DEF,23,Genk,Belgium
+Héctor Moreno,DEF,34,Monterrey,Mexico
+Jorge Sánchez ,DEF,24,Ajax,Netherlands
+Jesús Gallardo,DEF,27,Monterrey,Mexico
+Kevin Álvarez ,DEF,23,Pachuca,Mexico
+Edson Álvarez,MID,24,Ajax,Netherlands
+Luis Romo,MID,27,Monterrey,Mexico
+Carlos Rodríguez,MID,25,Cruz Azul,Mexico
+Érick Gutiérrez,MID,27,PSV,Netherlands
+Héctor Herrera,MID,32,Houston Dynamo,United States of America
+Orbelín Pineda,MID,26,AEK,Greece
+Andrés Guardado,MID,35,Real Betis,Spain
+Uriel Antuna,MID,24,Cruz Azul,Mexico
+Luis Chávez,MID,26,Pachuca,Mexico
+Roberto Alvarado,MID,23,Chivas,Mexico
+Raúl Jiménez,FRW,31,Wolverhampton,England
+Alexis Vega,FRW,24,Chivas,Mexico
+Rogelio Funes Mori,FRW,31,Monterrey,Mexico
+Henry Martín,FRW,29,América,Mexico
+Hirving Lozano,FRW,26,Napoli,Italy

@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Fernando Muslera,GK,36,Galatasaray
-Sebastián Sosa ,GK,35,Independiente
-Sergio Rochet ,GK,29,Nacional
-José Giménez,DEF,27,Atlético Madrid
-Diego Godín,DEF,36,Vélez Sarsfield
-Ronald Araújo,DEF,23,Barcelona
-Guillermo Varela,DEF,29,Flamengo
-Mathías Olivera ,DEF,24,Napoli
-Matías Viña,DEF,24,Roma
-Sebastián Coates,DEF,31,Sporting
-Martín Cáceres,DEF,35,LA Galaxy
-José Luis Rodríguez,DEF,25,Nacional
-Matías Vecino ,MID,30,Lazio
-Rodrigo Bentancur,MID,25,Tottenham
-Nicolas de la Cruz,MID,25,River Plate
-Facundo Pellistri,MID,20,Manchester United
-De Arrascaeta,MID,28,Flamengo
-Lucas Torreira,MID,26,Galatasaray
-Fede Valverde,MID,23,Real Madrid
-Manuel Ugarte,MID,21,Sporting
-Luis Suárez,FRW,35,Nacional
-Darwin Núñez,FRW,23,Liverpool
-Maxi Gómez,FRW,25,Trabzonspor
-Facundo Torres ,FRW,22,Orlando City
-Edinson Cavani,FRW,35,Valencia
-Agustín Canobbio,FRW,23,Athletico Paranaense
+Name,Position,Age,Team,League
+Fernando Muslera,GK,36,Galatasaray,Turkey
+Sebastián Sosa ,GK,35,Independiente,Argentina
+Sergio Rochet ,GK,29,Nacional,Uruguay
+José Giménez,DEF,27,Atlético Madrid,Spain
+Diego Godín,DEF,36,Vélez Sarsfield,Argentina
+Ronald Araújo,DEF,23,Barcelona,Spain
+Guillermo Varela,DEF,29,Flamengo,Brazil
+Mathías Olivera ,DEF,24,Napoli,Italy
+Matías Viña,DEF,24,Roma,Italy
+Sebastián Coates,DEF,31,Sporting,Portugal
+Martín Cáceres,DEF,35,LA Galaxy,United States of America
+José Luis Rodríguez,DEF,25,Nacional,Uruguay
+Matías Vecino ,MID,30,Lazio,Italy
+Rodrigo Bentancur,MID,25,Tottenham,England
+Nicolas de la Cruz,MID,25,River Plate,Argentina
+Facundo Pellistri,MID,20,Manchester United,England
+De Arrascaeta,MID,28,Flamengo,Brazil
+Lucas Torreira,MID,26,Galatasaray,Turkey
+Fede Valverde,MID,23,Real Madrid,Spain
+Manuel Ugarte,MID,21,Sporting,Portugal
+Luis Suárez,FRW,35,Nacional,Uruguay
+Darwin Núñez,FRW,23,Liverpool,England
+Maxi Gómez,FRW,25,Trabzonspor,Turkey
+Facundo Torres ,FRW,22,Orlando City,United States of America
+Edinson Cavani,FRW,35,Valencia,Spain
+Agustín Canobbio,FRW,23,Athletico Paranaense,Brazil

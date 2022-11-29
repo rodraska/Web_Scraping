@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Hugo Lloris,GK,35,Tottenham
-Steve Mandanda,GK,37,Rennes
-Alphonse Aréola,GK,29,West Ham
-Benjamin Pavard,DEF,26,Bayern München
-Axel Disasi,DEF,24,Monaco
-Raphael Varane,DEF,29,Manchester United
-Jules Koundé,DEF,23,Barcelona
-William Saliba,DEF,21,Arsenal
-Dayot Upamecano,DEF,23,Bayern München
-Lucas Hernández,DEF,26,Bayern München
-Theo Hernández,DEF,24,Milan
-Ibrahima Konaté,DEF,23,Liverpool
-Mattéo Guendouzi ,MID,23,Marseille
-Aurélien Tchouaméni,MID,22,Real Madrid
-Youssouf Fofana,MID,23,Monaco
-Adrien Rabiot,MID,27,Juventus
-Jordan Veretout,MID,29,Marseille
-Eduardo Camavinga,MID,19,Real Madrid
-Antoine Griezmann,FRW,31,Atlético Madrid
-Olivier Giroud,FRW,35,Milan
-Kylian Mbappé,FRW,23,Paris SG
-Ousmane Dembélé,FRW,25,Barcelona
-Randal Kolo Muani,FRW,23,Eintracht Frankfurt
-Karim Benzema,FRW,34,Real Madrid
-Kingsley Coman,FRW,26,Bayern München
-Marcus Thuram,FRW,24,Borussia M´gladbach
+Name,Position,Age,Team,League
+Hugo Lloris,GK,35,Tottenham,England
+Steve Mandanda,GK,37,Rennes,France
+Alphonse Aréola,GK,29,West Ham,England
+Benjamin Pavard,DEF,26,Bayern München,Germany
+Axel Disasi,DEF,24,Monaco,France
+Raphael Varane,DEF,29,Manchester United,England
+Jules Koundé,DEF,23,Barcelona,Spain
+William Saliba,DEF,21,Arsenal,England
+Dayot Upamecano,DEF,23,Bayern München,Germany
+Lucas Hernández,DEF,26,Bayern München,Germany
+Theo Hernández,DEF,24,Milan,Italy
+Ibrahima Konaté,DEF,23,Liverpool,England
+Mattéo Guendouzi ,MID,23,Marseille,France
+Aurélien Tchouaméni,MID,22,Real Madrid,Spain
+Youssouf Fofana,MID,23,Monaco,France
+Adrien Rabiot,MID,27,Juventus,Italy
+Jordan Veretout,MID,29,Marseille,France
+Eduardo Camavinga,MID,19,Real Madrid,Spain
+Antoine Griezmann,FRW,31,Atlético Madrid,Spain
+Olivier Giroud,FRW,35,Milan,Italy
+Kylian Mbappé,FRW,23,Paris SG,France
+Ousmane Dembélé,FRW,25,Barcelona,Spain
+Randal Kolo Muani,FRW,23,Eintracht Frankfurt,Germany
+Karim Benzema,FRW,34,Real Madrid,Spain
+Kingsley Coman,FRW,26,Bayern München,Germany
+Marcus Thuram,FRW,24,Borussia M´gladbach,Germany

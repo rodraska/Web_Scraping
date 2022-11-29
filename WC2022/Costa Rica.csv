@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Keylor Navas,GK,35,Paris SG
-Estebán Alvarado,GK,33,Herediano
-Patrick Sequeira,GK,23,Lugo
-Juan Pablo Vargas,DEF,27,Millonarios
-Keysher Fuller,DEF,27,Herediano
-Óscar Duarte,DEF,33,Al-Wehda 
-Bryan Oviedo,DEF,32,Real Salt Lake
-Francisco Calvo,DEF,29,Konyaspor
-Carlos Martínez ,DEF,23,San Carlos
-Kendall Waston,DEF,34,Saprissa
-Ronald Matarrita,DEF,27,FC Cincinnati
-Daniel Chacón,MID,21,Cartaginés
-Celso Borges,MID,34,Alajuelense
-Youstin Salas,MID,26,Saprissa
-Yeltsin Tejeda,MID,30,Herediano
-Brandon Aguilera,MID,19,Guanacasteca
-Douglas López ,MID,23,Herediano
-Roan Wilson ,MID,20,Municipal Grecia 
-Anthony Contreras,FRW,22,Herediano
-Jewison Bennette,FRW,18,Herediano
-Bryan Ruiz,FRW,36,Alajuelense
-Johan Venegas,FRW,33,Alajuelense
-Joel Campbell,FRW,30,Club León
-Gerson Torres,FRW,24,Herediano
-Anthony Hernández,FRW,20,Puntarenas FC
-Álvaro Zamora,FRW,20,Saprissa
+Name,Position,Age,Team,League
+Keylor Navas,GK,35,Paris SG,France
+Estebán Alvarado,GK,33,Herediano,Costa Rica
+Patrick Sequeira,GK,23,Lugo,Spain
+Juan Pablo Vargas,DEF,27,Millonarios,Colombia
+Keysher Fuller,DEF,27,Herediano,Costa Rica
+Óscar Duarte,DEF,33,Al-Wehda ,Saudi-Arabia
+Bryan Oviedo,DEF,32,Real Salt Lake,United States of America
+Francisco Calvo,DEF,29,Konyaspor,Turkey
+Carlos Martínez ,DEF,23,San Carlos,Costa Rica
+Kendall Waston,DEF,34,Saprissa,Costa Rica
+Ronald Matarrita,DEF,27,FC Cincinnati,United States of America
+Daniel Chacón,MID,21,Cartaginés,Costa Rica
+Celso Borges,MID,34,Alajuelense,Costa Rica
+Youstin Salas,MID,26,Saprissa,Costa Rica
+Yeltsin Tejeda,MID,30,Herediano,Costa Rica
+Brandon Aguilera,MID,19,Guanacasteca,Costa Rica
+Douglas López ,MID,23,Herediano,Costa Rica
+Roan Wilson ,MID,20,Municipal Grecia ,Costa Rica
+Anthony Contreras,FRW,22,Herediano,Costa Rica
+Jewison Bennette,FRW,18,Herediano,Costa Rica
+Bryan Ruiz,FRW,36,Alajuelense,Costa Rica
+Johan Venegas,FRW,33,Alajuelense,Costa Rica
+Joel Campbell,FRW,30,Club León,Mexico
+Gerson Torres,FRW,24,Herediano,Costa Rica
+Anthony Hernández,FRW,20,Puntarenas FC,Costa Rica
+Álvaro Zamora,FRW,20,Saprissa,Costa Rica

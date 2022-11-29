@@ -1,26 +1,26 @@
-Name,Position,Age,Team
-Alireza Beiranvand,GK,29,Persepolis FC
-Payam Niazmand,GK,27,Sepahan
-Amir Abedzadeh,GK,29,Ponferradina
-Hossein Hosseini,GK,30,Esteghlal Tehran
-Sadegh Moharrami,DEF,26,Dinamo Zagreb
-Ehsan Hajsafi,DEF,32,AEK
-Shojae Khalilzadeh,DEF,33,Al Ahli
-Milad Mohammadi,DEF,28,AEK
-Morteza Pouraliganji,DEF,30,Persepolis FC
-Hossein Kanaani,DEF,28,Al Ahli
-Roozbeh Cheshmi,DEF,28,Esteghlal Tehran
-Majid Hosseini,DEF,26,Kayserispor
-Ramin Rezaeian,DEF,32,Sepahan
-Abolfazl Jalali,DEF,24,Esteghlal Tehran
-Saeid Ezatolahi,MID,25,Vejle BK
-Saman Ghoddos,MID,28,Brentford
-Ali Gholizadeh,MID,26,Charleroi
-Ali Karimi,MID,28,Kayserispor
-Ahmad Nourollahi,MID,29,Al Ahli
-Alireza Jahanbakhsh,FRW,28,Feyenoord
-Mehdi Taremi,FRW,29,FC Porto
-Karim Ansarifard,FRW,32,Omonia
-Vahid Amiri ,FRW,34,Persepolis FC
-Mehdi Torabi,FRW,27,Persepolis FC
-Sardar Azmoun,FRW,27,Bayer Leverkusen
+Name,Position,Age,Team,League
+Alireza Beiranvand,GK,29,Persepolis FC,Iran
+Payam Niazmand,GK,27,Sepahan,Iran
+Amir Abedzadeh,GK,29,Ponferradina,Spain
+Hossein Hosseini,GK,30,Esteghlal Tehran,Iran
+Sadegh Moharrami,DEF,26,Dinamo Zagreb,Croatia
+Ehsan Hajsafi,DEF,32,AEK,Greece
+Shojae Khalilzadeh,DEF,33,Al Ahli,Qatar
+Milad Mohammadi,DEF,28,AEK,Greece
+Morteza Pouraliganji,DEF,30,Persepolis FC,Iran
+Hossein Kanaani,DEF,28,Al Ahli,Qatar
+Roozbeh Cheshmi,DEF,28,Esteghlal Tehran,Iran
+Majid Hosseini,DEF,26,Kayserispor,Turkey
+Ramin Rezaeian,DEF,32,Sepahan,Iran
+Abolfazl Jalali,DEF,24,Esteghlal Tehran,Iran
+Saeid Ezatolahi,MID,25,Vejle BK,Denmark
+Saman Ghoddos,MID,28,Brentford,England
+Ali Gholizadeh,MID,26,Charleroi,Belgium
+Ali Karimi,MID,28,Kayserispor,Turkey
+Ahmad Nourollahi,MID,29,Al Ahli,Arab Emirates
+Alireza Jahanbakhsh,FRW,28,Feyenoord,Netherlands
+Mehdi Taremi,FRW,29,FC Porto,Portugal
+Karim Ansarifard,FRW,32,Omonia,Cyprus
+Vahid Amiri ,FRW,34,Persepolis FC,Iran
+Mehdi Torabi,FRW,27,Persepolis FC,Iran
+Sardar Azmoun,FRW,27,Bayer Leverkusen,Germany

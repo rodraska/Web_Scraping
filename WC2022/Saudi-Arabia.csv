@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Moha Al-Yami,GK,24,Al-Ahli Jeddah
-Moha Al Owais,GK,30,Al Hilal
-Nawaf Al-Aqidi,GK,22,Al Nassr
-Sultan Al-Ghanam ,DEF,28,Al Nassr
-Abdullah Madu,DEF,28,Al Nassr
-Abdulelah Al-Amri,DEF,25,Al Nassr
-Ali Al Bulayhi,DEF,32,Al Hilal
-Moha Al Burayk ,DEF,29,Al Hilal
-Saud Abdulhamid,DEF,22,Al Hilal
-Yasser Al-Shahrani,DEF,30,Al Hilal
-Has AlTambakti,DEF,23,Al-Shabab
-Salman Al Faraj,MID,32,Al Hilal
-Abdulellah Al-Malki,MID,27,Al Hilal
-Firas Al-Buraikan,MID,22,Al Fateh
-Salem Al Dawsari,MID,30,Al Hilal
-Abdullah Otayf,MID,29,Al Hilal
-Ali Al-Hassan,MID,25,Al Nassr
-Sami Al-Najei,MID,25,Al Nassr
-Nawaf Al-Abed,MID,32,Al-Shabab
-Hattan Babhir,MID,29,Al-Shabab
-Mohamed Kanno,MID,27,Al Hilal
-Nasser Al-Dawsari,MID,23,Al Hilal
-Riyadh Sharahili,MID,29,Abha Club
-Saleh Al Shehri,FRW,28,Al Hilal
-Abdul Al-Oboud,FRW,27,Al-Ittihad Jeddah
-Haitham Asiri,FRW,21,Al-Ahli Jeddah
+Name,Position,Age,Team,League
+Moha Al-Yami,GK,24,Al-Ahli Jeddah,Saudi-Arabia
+Moha Al Owais,GK,30,Al Hilal,Saudi-Arabia
+Nawaf Al-Aqidi,GK,22,Al Nassr,Saudi-Arabia
+Sultan Al-Ghanam ,DEF,28,Al Nassr,Saudi-Arabia
+Abdullah Madu,DEF,28,Al Nassr,Saudi-Arabia
+Abdulelah Al-Amri,DEF,25,Al Nassr,Saudi-Arabia
+Ali Al Bulayhi,DEF,32,Al Hilal,Saudi-Arabia
+Moha Al Burayk ,DEF,29,Al Hilal,Saudi-Arabia
+Saud Abdulhamid,DEF,22,Al Hilal,Saudi-Arabia
+Yasser Al-Shahrani,DEF,30,Al Hilal,Saudi-Arabia
+Has AlTambakti,DEF,23,Al-Shabab,Saudi-Arabia
+Salman Al Faraj,MID,32,Al Hilal,Saudi-Arabia
+Abdulellah Al-Malki,MID,27,Al Hilal,Saudi-Arabia
+Firas Al-Buraikan,MID,22,Al Fateh,Saudi-Arabia
+Salem Al Dawsari,MID,30,Al Hilal,Saudi-Arabia
+Abdullah Otayf,MID,29,Al Hilal,Saudi-Arabia
+Ali Al-Hassan,MID,25,Al Nassr,Saudi-Arabia
+Sami Al-Najei,MID,25,Al Nassr,Saudi-Arabia
+Nawaf Al-Abed,MID,32,Al-Shabab,Saudi-Arabia
+Hattan Babhir,MID,29,Al-Shabab,Saudi-Arabia
+Mohamed Kanno,MID,27,Al Hilal,Saudi-Arabia
+Nasser Al-Dawsari,MID,23,Al Hilal,Saudi-Arabia
+Riyadh Sharahili,MID,29,Abha Club,Saudi-Arabia
+Saleh Al Shehri,FRW,28,Al Hilal,Saudi-Arabia
+Abdul Al-Oboud,FRW,27,Al-Ittihad Jeddah,Saudi-Arabia
+Haitham Asiri,FRW,21,Al-Ahli Jeddah,Saudi-Arabia

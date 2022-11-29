@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Dayne St. Clair,GK,25,Minnesota United
-James Pantemis,GK,25,CF Montréal
-Milan Borjan,GK,34,Crvena Zvezda
-Alistair Johnston,DEF,23,CF Montréal
-Sam Adekugbe,DEF,27,Hatayspor
-Kamal Miller,DEF,25,CF Montréal
-Steven Vitória,DEF,35,GD Chaves
-Alphonso Davies,DEF,21,Bayern München
-Richie Laryea,DEF,27,Toronto FC
-Derek Cornelius,DEF,24,Panetolikos
-Joel Waterman,DEF,26,CF Montréal
-Samuel Piette,MID,27,CF Montréal
-Stephen Eustáquio,MID,25,FC Porto
-Liam Fraser,MID,24,Deinze
-Atiba Hutchinson,MID,39,Besiktas
-Mark-Anthony Kaye,MID,27,Toronto FC
-Ismaël Koné,MID,20,CF Montréal
-Jonathan Osorio ,MID,30,Toronto FC
-David Wotherspoon,MID,32,St. Johnstone
-Lucas Cavallini,FRW,29,Vancouver Whitecaps
-Junior Hoilett,FRW,32,Reading
-Tajon Buchanan,FRW,22,Club Brugge
-Iké Ugbo,FRW,23,Troyes
-Cyle Larin,FRW,27,Club Brugge
-Jonathan David,FRW,22,Lille
-Liam Millar,FRW,22,FC Basel
+Name,Position,Age,Team,League
+Dayne St. Clair,GK,25,Minnesota United,United States of America
+James Pantemis,GK,25,CF Montréal,Canada
+Milan Borjan,GK,34,Crvena Zvezda,Serbia
+Alistair Johnston,DEF,23,CF Montréal,Canada
+Sam Adekugbe,DEF,27,Hatayspor,Turkey
+Kamal Miller,DEF,25,CF Montréal,Canada
+Steven Vitória,DEF,35,GD Chaves,Portugal
+Alphonso Davies,DEF,21,Bayern München,Germany
+Richie Laryea,DEF,27,Toronto FC,Canada
+Derek Cornelius,DEF,24,Panetolikos,Greece
+Joel Waterman,DEF,26,CF Montréal,Canada
+Samuel Piette,MID,27,CF Montréal,Canada
+Stephen Eustáquio,MID,25,FC Porto,Portugal
+Liam Fraser,MID,24,Deinze,Belgium
+Atiba Hutchinson,MID,39,Besiktas,Turkey
+Mark-Anthony Kaye,MID,27,Toronto FC,Canada
+Ismaël Koné,MID,20,CF Montréal,Canada
+Jonathan Osorio ,MID,30,Toronto FC,Canada
+David Wotherspoon,MID,32,St. Johnstone,Scotland
+Lucas Cavallini,FRW,29,Vancouver Whitecaps,Canada
+Junior Hoilett,FRW,32,Reading,England
+Tajon Buchanan,FRW,22,Club Brugge,Belgium
+Iké Ugbo,FRW,23,Troyes,France
+Cyle Larin,FRW,27,Club Brugge,Belgium
+Jonathan David,FRW,22,Lille,France
+Liam Millar,FRW,22,FC Basel,Switzerland

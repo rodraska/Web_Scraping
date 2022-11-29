@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Lawrence Ati-Zigi,GK,25,St. Gallen
-Ibrahim Danlad,GK,19,Asante Kotoko
-Abdul Nurudeen ,GK,23,Eupen
-Tariq Lamptey,DEF,21,Brighton & Hove Albion
-Denis Odoi ,DEF,34,Club Brugge
-Mohammed Salisu,DEF,23,Southampton
-Gideon Mensah,DEF,23,Auxerre
-Joseph Aidoo,DEF,26,Celta de Vigo
-Baba Rahman,DEF,27,Reading
-Daniel Amartey,DEF,27,Leicester City
-Alexander Djiku,DEF,27,Strasbourg
-Alidu Seidu,DEF,22,Clermont
-Thomas Partey,MID,29,Arsenal
-Elisha Owusu,MID,24,Gent
-Fatawu Issahaku,MID,18,Sporting
-Daniel-Kofi Kyereh,MID,26,SC Freiburg
-Mohammed Kudus,MID,21,Ajax
-Salis Samed ,MID,22,Lens
-Kamal Sulemana,MID,20,Rennes
-Jordan Ayew,FRW,30,Crystal Palace
-André Ayew,FRW,32,Al-Sadd
-Osman Bukari,FRW,23,Crvena Zvezda
-Daniel Afriyie,FRW,21,Hearts of Oak
-Iñaki Williams,FRW,28,Athletic
-Kamal Sowah,FRW,22,Club Brugge
-Antoine Semenyo,FRW,22,Bristol City
+Name,Position,Age,Team,League
+Lawrence Ati-Zigi,GK,25,St. Gallen,Switzerland
+Ibrahim Danlad,GK,19,Asante Kotoko,Ghana
+Abdul Nurudeen ,GK,23,Eupen,Belgium
+Tariq Lamptey,DEF,21,Brighton & Hove Albion,England
+Denis Odoi ,DEF,34,Club Brugge,Belgium
+Mohammed Salisu,DEF,23,Southampton,England
+Gideon Mensah,DEF,23,Auxerre,France
+Joseph Aidoo,DEF,26,Celta de Vigo,Spain
+Baba Rahman,DEF,27,Reading,England
+Daniel Amartey,DEF,27,Leicester City,England
+Alexander Djiku,DEF,27,Strasbourg,France
+Alidu Seidu,DEF,22,Clermont,France
+Thomas Partey,MID,29,Arsenal,England
+Elisha Owusu,MID,24,Gent,Belgium
+Fatawu Issahaku,MID,18,Sporting,Portugal
+Daniel-Kofi Kyereh,MID,26,SC Freiburg,Germany
+Mohammed Kudus,MID,21,Ajax,Netherlands
+Salis Samed ,MID,22,Lens,France
+Kamal Sulemana,MID,20,Rennes,France
+Jordan Ayew,FRW,30,Crystal Palace,England
+André Ayew,FRW,32,Al-Sadd,Qatar
+Osman Bukari,FRW,23,Crvena Zvezda,Serbia
+Daniel Afriyie,FRW,21,Hearts of Oak,Ghana
+Iñaki Williams,FRW,28,Athletic,Spain
+Kamal Sowah,FRW,22,Club Brugge,Belgium
+Antoine Semenyo,FRW,22,Bristol City,England

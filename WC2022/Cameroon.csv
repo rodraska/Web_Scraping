@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Simon Ngapandouetnbu,GK,19,Marseille
-Devis Epassy,GK,29,Abha Club
-André Onana,GK,26,Internazionale
-Nicolas Nkoulou,DEF,32,Aris
-Christopher Wooh,DEF,20,Rennes
-Olivier Mbaizo,DEF,24,Philadelphia Union
-Collins Fai,DEF,29,Al-Tai
-Jean Castelletto,DEF,27,Nantes
-Enzo Ebosse,DEF,23,Udinese
-Nouhou Tolo,DEF,25,Seattle Sounders
-Jerome Mbekeli,MID,23,APEJES Mfou
-Gael Ondoua,MID,26,Hannover 96
-Georges Nkoudou,MID,27,Besiktas
-Zambo Anguissa,MID,26,Napoli
-Samuel Oum Gouet,MID,24,KV Mechelen
-Pierre Kundé,MID,26,Olympiacos
-Martin Hongla,MID,24,Hellas Verona
-Olivier Ntcham,MID,26,Swansea City
-Moumi Ngamaleu,FRW,27,Dynamo Moskva
-Jean-Pierre Nsamé,FRW,29,Young Boys
-Vincent Aboubakar,FRW,30,Al Nassr
-Christian Bassogog,FRW,26,Shanghai Shenhua
-Karl Toko-Ekambi,FRW,29,Lyon
-Choupo-Moting,FRW,33,Bayern München
-Bryan Mbeumo,FRW,22,Brentford
-Souaibou Marou,FRW,21,Cotonsport
+Name,Position,Age,Team,League
+Simon Ngapandouetnbu,GK,19,Marseille,France
+Devis Epassy,GK,29,Abha Club,Saudi-Arabia
+André Onana,GK,26,Internazionale,Italy
+Nicolas Nkoulou,DEF,32,Aris,Greece
+Christopher Wooh,DEF,20,Rennes,France
+Olivier Mbaizo,DEF,24,Philadelphia Union,United States of America
+Collins Fai,DEF,29,Al-Tai,Saudi-Arabia
+Jean Castelletto,DEF,27,Nantes,France
+Enzo Ebosse,DEF,23,Udinese,Italy
+Nouhou Tolo,DEF,25,Seattle Sounders,United States of America
+Jerome Mbekeli,MID,23,APEJES Mfou,Cameroon
+Gael Ondoua,MID,26,Hannover 96,Germany
+Georges Nkoudou,MID,27,Besiktas,Turkey
+Zambo Anguissa,MID,26,Napoli,Italy
+Samuel Oum Gouet,MID,24,KV Mechelen,Belgium
+Pierre Kundé,MID,26,Olympiacos,Greece
+Martin Hongla,MID,24,Hellas Verona,Italy
+Olivier Ntcham,MID,26,Swansea City,Wales
+Moumi Ngamaleu,FRW,27,Dynamo Moskva,Russian Federation
+Jean-Pierre Nsamé,FRW,29,Young Boys,Switzerland
+Vincent Aboubakar,FRW,30,Al Nassr,Saudi-Arabia
+Christian Bassogog,FRW,26,Shanghai Shenhua,China
+Karl Toko-Ekambi,FRW,29,Lyon,France
+Choupo-Moting,FRW,33,Bayern München,Germany
+Bryan Mbeumo,FRW,22,Brentford,England
+Souaibou Marou,FRW,21,Cotonsport,Cameroon

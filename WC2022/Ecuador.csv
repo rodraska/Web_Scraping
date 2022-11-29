@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Hernán Galíndez,GK,35,Aucas
-Moisés Ramirez,GK,21,Independiente del Valle
-Alexander Domínguez,GK,35,LDU Quito
-Félix Torres,DEF,25,Santos Laguna
-Piero Hincapié,DEF,20,Bayer Leverkusen
-Robert Arboleda,DEF,30,São Paulo
-Willian Pacho ,DEF,20,Royal Antwerp
-Pervis Estupiñán ,DEF,24,Brighton & Hove Albion
-Xavier Arreaga,DEF,27,Seattle Sounders
-Angelo Preciado,DEF,24,Genk
-Diego Palacios,DEF,22,Los Angeles FC
-Jackson Porozo,DEF,21,Troyes
-José Cifuentes,MID,23,Los Angeles FC
-Carlos Gruezo,MID,27,FC Augsburg
-Ayrton Preciado,MID,27,Santos Laguna
-Ángel Mena,MID,34,Club León
-Jhegson Méndez,MID,25,Los Angeles FC
-Alan Franco ,MID,23,Talleres
-Moisés Caicedo,MID,20,Brighton & Hove Albion
-Romario Ibarra,FRW,27,Pachuca
-Michael Estrada,FRW,26,Cruz Azul
-Enner Valencia,FRW,32,Fenerbahçe
-Jeremy Sarmiento,FRW,20,Brighton & Hove Albion
-Gonzalo Plata,FRW,21,Valladolid
-Djorkaeff Reasco,FRW,23,Newell´s Old Boys
-Kevin Rodriguez,FRW,22,Imbabura SC
+Name,Position,Age,Team,League
+Hernán Galíndez,GK,35,Aucas,Ecuador
+Moisés Ramirez,GK,21,Independiente del Valle,Ecuador
+Alexander Domínguez,GK,35,LDU Quito,Ecuador
+Félix Torres,DEF,25,Santos Laguna,Mexico
+Piero Hincapié,DEF,20,Bayer Leverkusen,Germany
+Robert Arboleda,DEF,30,São Paulo,Brazil
+Willian Pacho ,DEF,20,Royal Antwerp,Belgium
+Pervis Estupiñán ,DEF,24,Brighton & Hove Albion,England
+Xavier Arreaga,DEF,27,Seattle Sounders,United States of America
+Angelo Preciado,DEF,24,Genk,Belgium
+Diego Palacios,DEF,22,Los Angeles FC,United States of America
+Jackson Porozo,DEF,21,Troyes,France
+José Cifuentes,MID,23,Los Angeles FC,United States of America
+Carlos Gruezo,MID,27,FC Augsburg,Germany
+Ayrton Preciado,MID,27,Santos Laguna,Mexico
+Ángel Mena,MID,34,Club León,Mexico
+Jhegson Méndez,MID,25,Los Angeles FC,United States of America
+Alan Franco ,MID,23,Talleres,Argentina
+Moisés Caicedo,MID,20,Brighton & Hove Albion,England
+Romario Ibarra,FRW,27,Pachuca,Mexico
+Michael Estrada,FRW,26,Cruz Azul,Mexico
+Enner Valencia,FRW,32,Fenerbahçe,Turkey
+Jeremy Sarmiento,FRW,20,Brighton & Hove Albion,England
+Gonzalo Plata,FRW,21,Valladolid,Spain
+Djorkaeff Reasco,FRW,23,Newell´s Old Boys,Argentina
+Kevin Rodriguez,FRW,22,Imbabura SC,Ecuador

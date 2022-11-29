@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Franco Armani,GK,35,River Plate
-Gerónimo Rulli,GK,30,Villarreal
-Emiliano Martínez,GK,29,Aston Villa
-Juan Foyth,DEF,24,Villarreal
-Nicolás Tagliafico,DEF,29,Lyon
-Gonzalo Montiel,DEF,26,Sevilla
-Germán Pezzella,DEF,31,Real Betis
-Marcos Acuña,DEF,30,Sevilla
-Cristián Romero,DEF,24,Tottenham
-Nicolás Otamendi,DEF,34,Benfica
-Lisandro Martínez,DEF,24,Manchester United
-Nahuel Molina,DEF,24,Atlético Madrid
-Leandro Paredes,MID,28,Juventus
-Rodrigo de Paul,MID,28,Atlético Madrid
-Exequiel Palacios,MID,23,Bayer Leverkusen
-Thiago Almada,MID,21,Atlanta United
-Guido Rodríguez,MID,28,Real Betis
-Alexis Mac Allister,MID,23,Brighton & Hove Albion
-Enzo Fernández,MID,21,Benfica
-Julián Álvarez,FRW,22,Manchester City
-Lionel Messi,FRW,35,Paris SG
-Ángel Di María,FRW,34,Juventus
-Ángel Correa,FRW,27,Atlético Madrid
-Papu Gómez,FRW,34,Sevilla
-Paulo Dybala,FRW,28,Roma
-Lautaro Martínez,FRW,24,Internazionale
+Name,Position,Age,Team,League
+Franco Armani,GK,35,River Plate,Argentina
+Gerónimo Rulli,GK,30,Villarreal,Spain
+Emiliano Martínez,GK,29,Aston Villa,England
+Juan Foyth,DEF,24,Villarreal,Spain
+Nicolás Tagliafico,DEF,29,Lyon,France
+Gonzalo Montiel,DEF,26,Sevilla,Spain
+Germán Pezzella,DEF,31,Real Betis,Spain
+Marcos Acuña,DEF,30,Sevilla,Spain
+Cristián Romero,DEF,24,Tottenham,England
+Nicolás Otamendi,DEF,34,Benfica,Portugal
+Lisandro Martínez,DEF,24,Manchester United,England
+Nahuel Molina,DEF,24,Atlético Madrid,Spain
+Leandro Paredes,MID,28,Juventus,Italy
+Rodrigo de Paul,MID,28,Atlético Madrid,Spain
+Exequiel Palacios,MID,23,Bayer Leverkusen,Germany
+Thiago Almada,MID,21,Atlanta United,United States of America
+Guido Rodríguez,MID,28,Real Betis,Spain
+Alexis Mac Allister,MID,23,Brighton & Hove Albion,England
+Enzo Fernández,MID,21,Benfica,Portugal
+Julián Álvarez,FRW,22,Manchester City,England
+Lionel Messi,FRW,35,Paris SG,France
+Ángel Di María,FRW,34,Juventus,Italy
+Ángel Correa,FRW,27,Atlético Madrid,Spain
+Papu Gómez,FRW,34,Sevilla,Spain
+Paulo Dybala,FRW,28,Roma,Italy
+Lautaro Martínez,FRW,24,Internazionale,Italy

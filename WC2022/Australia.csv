@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Mathew Ryan,GK,30,FC Kobenhavn
-Andrew Redmayne,GK,33,Sydney FC
-Danny Vukovic,GK,37,Central Coast
-Milos Degenek,DEF,28,Columbus Crew
-Nathaniel Atkinson,DEF,23,Hearts
-Kye Rowles,DEF,24,Hearts
-Fran Karacic,DEF,26,Brescia
-Bailey Wright,DEF,29,Sunderland
-Aziz Behich,DEF,31,Dundee United
-Harry Souttar,DEF,23,Stoke City
-Thomas Deng,DEF,25,Albirex Niigata
-Joel King,DEF,21,Odense BK
-Ajdin Hrustic,MID,25,Hellas Verona
-Awer Mabil,MID,26,Cádiz
-Aaron Mooy,MID,31,Celtic
-Riley McGree,MID,23,Middlesbrough
-Cameron Devlin,MID,24,Hearts
-Jackson Irvine,MID,29,FC St. Pauli
-Kenau Baccus,MID,24,St. Mirren
-Marco Tilio,FRW,20,Melbourne City
-Mathew Leckie,FRW,31,Melbourne City
-Jamie MacLaren,FRW,28,Melbourne City
-Mitchell Duke,FRW,31,Fagiano Okayama
-Garang Kuol,FRW,17,Central Coast
-Craig Goodwin,FRW,30,Adelaide United
-Jason Cummings,FRW,26,Central Coast
+Name,Position,Age,Team,League
+Mathew Ryan,GK,30,FC Kobenhavn,Denmark
+Andrew Redmayne,GK,33,Sydney FC,Australia
+Danny Vukovic,GK,37,Central Coast,Australia
+Milos Degenek,DEF,28,Columbus Crew,United States of America
+Nathaniel Atkinson,DEF,23,Hearts,Scotland
+Kye Rowles,DEF,24,Hearts,Scotland
+Fran Karacic,DEF,26,Brescia,Italy
+Bailey Wright,DEF,29,Sunderland,England
+Aziz Behich,DEF,31,Dundee United,Scotland
+Harry Souttar,DEF,23,Stoke City,England
+Thomas Deng,DEF,25,Albirex Niigata,Japan
+Joel King,DEF,21,Odense BK,Denmark
+Ajdin Hrustic,MID,25,Hellas Verona,Italy
+Awer Mabil,MID,26,Cádiz,Spain
+Aaron Mooy,MID,31,Celtic,Scotland
+Riley McGree,MID,23,Middlesbrough,England
+Cameron Devlin,MID,24,Hearts,Scotland
+Jackson Irvine,MID,29,FC St. Pauli,Germany
+Kenau Baccus,MID,24,St. Mirren,Scotland
+Marco Tilio,FRW,20,Melbourne City,Australia
+Mathew Leckie,FRW,31,Melbourne City,Australia
+Jamie MacLaren,FRW,28,Melbourne City,Australia
+Mitchell Duke,FRW,31,Fagiano Okayama,Japan
+Garang Kuol,FRW,17,Central Coast,Australia
+Craig Goodwin,FRW,30,Adelaide United,Australia
+Jason Cummings,FRW,26,Central Coast,Australia

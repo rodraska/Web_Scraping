@@ -1,27 +1,27 @@
-Name,Position,Age,Team
-Eiji Kawashima,GK,39,Strasbourg
-Shuichi Gonda,GK,33,Shimizu S-Pulse
-Daniel Schmidt,GK,30,Sint-Truiden
-Miki Yamane,DEF,28,Kawasaki Frontale
-Shogo Taniguchi,DEF,30,Kawasaki Frontale
-Ko Itakura,DEF,25,Borussia M´gladbach
-Yuto Nagatomo,DEF,35,FC Tokyo
-Takehiro Tomiyasu,DEF,23,Arsenal
-Hiroki Sakai,DEF,32,Urawa Reds
-Maya Yoshida,DEF,33,Schalke 04
-Hiroki Ito,DEF,23,Stuttgart
-Wataru Endo,MID,29,Stuttgart
-Gaku Shibasaki,MID,30,Leganés
-Hidemasa Morita,MID,27,Sporting
-Ao Tanaka,MID,23,Fortuna Düsseldorf
-Yuki Soma,MID,25,Nagoya Grampus
-Ritsu Doan,FRW,24,SC Freiburg
-Kaoru Mitoma,FRW,25,Brighton & Hove Albion
-Takumi Minamino,FRW,27,Monaco
-Takefusa Kubo,FRW,21,Real Sociedad
-Junya Ito,FRW,29,Stade de Reims
-Daichi Kamada,FRW,25,Eintracht Frankfurt
-Takuma Asano,FRW,27,VfL Bochum
-Shuto Machino,FRW,22,Shonan Bellmare
-Ayase Ueda,FRW,23,Cercle Brugge
-Daizen Maeda,FRW,24,Celtic
+Name,Position,Age,Team,League
+Eiji Kawashima,GK,39,Strasbourg,France
+Shuichi Gonda,GK,33,Shimizu S-Pulse,Japan
+Daniel Schmidt,GK,30,Sint-Truiden,Belgium
+Miki Yamane,DEF,28,Kawasaki Frontale,Japan
+Shogo Taniguchi,DEF,30,Kawasaki Frontale,Japan
+Ko Itakura,DEF,25,Borussia M´gladbach,Germany
+Yuto Nagatomo,DEF,35,FC Tokyo,Japan
+Takehiro Tomiyasu,DEF,23,Arsenal,England
+Hiroki Sakai,DEF,32,Urawa Reds,Japan
+Maya Yoshida,DEF,33,Schalke 04,Germany
+Hiroki Ito,DEF,23,Stuttgart,Germany
+Wataru Endo,MID,29,Stuttgart,Germany
+Gaku Shibasaki,MID,30,Leganés,Spain
+Hidemasa Morita,MID,27,Sporting,Portugal
+Ao Tanaka,MID,23,Fortuna Düsseldorf,Germany
+Yuki Soma,MID,25,Nagoya Grampus,Japan
+Ritsu Doan,FRW,24,SC Freiburg,Germany
+Kaoru Mitoma,FRW,25,Brighton & Hove Albion,England
+Takumi Minamino,FRW,27,Monaco,France
+Takefusa Kubo,FRW,21,Real Sociedad,Spain
+Junya Ito,FRW,29,Stade de Reims,France
+Daichi Kamada,FRW,25,Eintracht Frankfurt,Germany
+Takuma Asano,FRW,27,VfL Bochum,Germany
+Shuto Machino,FRW,22,Shonan Bellmare,Japan
+Ayase Ueda,FRW,23,Cercle Brugge,Belgium
+Daizen Maeda,FRW,24,Celtic,Scotland
